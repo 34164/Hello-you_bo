@@ -1,3 +1,3 @@
 # Hello-you_bo
 
-# Maak een tekstbased adventrure.
+## Maak een tekstbased adventrure.
